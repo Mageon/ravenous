@@ -1,10 +1,4 @@
-// Client ID
-// HxQx2-ZFKvni8_F7JINoZA
-
-// API Key
-// ecPJqx8wM_H4WTYRHE3_xxuZ_2SLVWSpZxHYy1dvIwr3Tl0fH8BahF3hpx-Sg3c1763nsyFHG0k5sO_73aoz1QULxcemsFXLh1bClCIV0HBC8CymrolRgYFJkmxjX3Yx
-
-const apiKey = 'ecPJqx8wM_H4WTYRHE3_xxuZ_2SLVWSpZxHYy1dvIwr3Tl0fH8BahF3hpx-Sg3c1763nsyFHG0k5sO_73aoz1QULxcemsFXLh1bClCIV0HBC8CymrolRgYFJkmxjX3Yx';
+const apiKey = 'here goues yelp api key';
 
 // https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search?term=sushi&location=monterrey&sort_by=best_match,{headers: {Authorization: Bearer ecPJqx8wM_H4WTYRHE3_xxuZ_2SLVWSpZxHYy1dvIwr3Tl0fH8BahF3hpx-Sg3c1763nsyFHG0k5sO_73aoz1QULxcemsFXLh1bClCIV0HBC8CymrolRgYFJkmxjX3Yx
 
